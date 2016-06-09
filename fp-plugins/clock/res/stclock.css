@@ -1,0 +1,24 @@
+#widget_clock p {
+    color: black;
+    padding: 0;
+}
+#dati_ora {
+    color: #00FFFF;
+    font-size: 20px;
+}
+#dati_data {
+    color: #FF8800;
+    font-size: 20px;
+}
+#dati_ip {
+    color: #7FFF00;
+    font-size: 20px;
+}
+#clock {
+    background: transparent;
+    color: #00FFFF;
+    font-size: 20px;
+    padding: 0;
+    border: 0px;
+    margin: 0;
+}

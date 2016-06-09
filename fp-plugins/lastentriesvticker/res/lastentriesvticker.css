@@ -1,0 +1,13 @@
+ /* vticker */
+ 
+ #news-container
+{
+	width: 90%;
+}
+
+ #news-container  li
+{
+	border-bottom: solid 0.1em;
+  border-color: rgb(192,192,192);
+  text-align: left;
+}
