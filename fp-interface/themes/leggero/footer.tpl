@@ -18,7 +18,7 @@
 			-->
 			
 			<p>
-			<a href="https://github.com/koulaxizis/flatpress">Ελληνικό FlatPress</a> + <a href="http://www.papaki.gr/?rid=flatpress">Papaki</a> = &#9829;
+			<a href="https://github.com/koulaxizis/flatpress" target="_blank">Ελληνικό FlatPress</a> + <a href="http://www.papaki.gr/?rid=flatpress" target="_blank">Papaki</a> = &#9829;
 			</p>
 		</div> <!-- end of #footer -->
 

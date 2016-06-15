@@ -6,7 +6,7 @@ $fp_config = array (
     'www' => 'http://localhost',
     'title' => 'FlatPress',
     'subtitle' => 'Το FlatPress μου',
-    'footer' => 'Μετάφραση από τον <a href="http://koulaxizis.net">Χρήστο Κουλαξίζη</a>, επανέλεγχος από την <a href="http://en.gravatar.com/kanellia">Κανελλία Τούντα</a>',
+    'footer' => 'Μετάφραση από τον <a href="http://koulaxizis.net" target="_blank">Χρήστο Κουλαξίζη</a>, επανέλεγχος από την <a href="http://en.gravatar.com/kanellia" target="_blank">Κανελλία Τούντα</a>',
     'author' => 'Ελληνικό FlatPress',
     'email' => 'webmaster@localhost.com',
     'startpage' => NULL,
@@ -19,7 +19,7 @@ $fp_config = array (
   ),
   'locale' => 
   array (
-    'timeoffset' => '2',
+    'timeoffset' => '3',
     'timeformat' => '%H:%M:%S',
     'dateformat' => '%A, %e %B, %Y',
     'dateformatshort' => '%d-%m-%Y',
