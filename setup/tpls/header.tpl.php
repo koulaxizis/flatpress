@@ -5,7 +5,7 @@
 		<link href="setup/res/setup.css" type="text/css" rel="stylesheet" /></head>
 <body>
 	<div id="rap">
-		<h1 id="header">Εγκατάσταση του FlatPress (σε πειραματικό στάδιο)</h1>
+		<h1 id="header">Εγκατάσταση του FlatPress</h1>
 		</div>
 
 		<div id="main">
