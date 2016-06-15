@@ -17,7 +17,7 @@ $subject = "Πρόσφατα νέα";//the name of the widget . Change this to w
 $url = 'http://www.flatpress.org/home/rss.php';//the feed displayed
 
 $feed = new SimplePie();
-$feed->set_feed_url($url = 'https://github.com/koulaxizis/flatpress/commits/master.atom');//This is the feed being processed
+$feed->set_feed_url($url = 'https://github.com/koulaxizis/flatpress/releases.atom');//This is the feed being processed
 /*to display multiple feeds  uncomment this; change the feeds and comment out the above line:
 $feed->set_feed_url(array(
 	'http://rss.news.yahoo.com/rss/topstories',
