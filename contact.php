@@ -70,7 +70,7 @@
 							: 
 							$fp_config['general']['email']
 						), 
-						"Contact sent through {$fp_config['general']['title']} ", $msg );
+						"Ένα νέο μήνυμα μέσω του ιστολογίου {$fp_config['general']['title']} ", $msg );
 
 				system_seterr('contact', $success? 1 : -1);			
 				utils_redirect(basename(__FILE__));	
