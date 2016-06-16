@@ -267,7 +267,7 @@ function commentform() {
                 );
 
 
-                @utils_mail($from_mail, "{$fp_config['general'][title]} - Ο/Η {$arr['name']} δημοδίευσε ένα νέο σχόλιο!", $mail);
+                @utils_mail($from_mail, "{$fp_config['general'][title]} - Ο/Η {$arr['name']} δημοσίευσε ένα νέο σχόλιο!", $mail);
 
             }
             
