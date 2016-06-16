@@ -6,7 +6,7 @@
 	/* default action */
 	
 	$lang['admin']['widgets']['default'] = array(
-		'head'		=> 'Διαχείριση Μικροεφαρμογών (<em>σε πειραματικό στάδιο</em>)',
+		'head'		=> 'Διαχείριση Μικροεφαρμογών',
 		
 		'descr'		=> 	'Μία <a class="hint" '.
 						'href="http://wiki.flatpress.org/doc:widgets" title="Τι είναι μία Μικροεφαρμογή;">'.
