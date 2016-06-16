@@ -32,7 +32,7 @@
 			value="{$flatpress.www|escape:"html"}" /></dd>
 
 
-	<dt><label for="admin_email"> Admin email </label></dt>
+	<dt><label for="admin_email"> Ηλ. ταχυδρομείο διαχειριστή </label></dt>
 	<dd><select name="admin_email" id="admin_email">
             <option value="admin@{$HOST_URI}">admin@{$HOST_URI}</option>
             <option value="notification{$HOST_URI}">notification@{$HOST_URI}</option>
