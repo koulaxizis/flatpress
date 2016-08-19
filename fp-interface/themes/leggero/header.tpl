@@ -6,8 +6,8 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta property="og:image" content="avatar.png"/>
 	<meta name="description" content="Το Flatpress μου!">
-	<meta name="keywords" content="Flatpress,Blog,Greek,Greece">
-	<meta name="author" content="Ελληνικό Flatpress">
+	<meta name="keywords" content="Flatpress, Ελληνικό, Blog, Greek">
+	<meta name="author" content="ΕΛΛΗΝΙΚΟ FLATPRESS">
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700' rel='stylesheet' type='text/css'/>
 	{action hook=wp_head}
 </head>
